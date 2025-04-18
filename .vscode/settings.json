@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "tuple": "c",
+        "cmath": "cpp",
+        "ostream": "cpp",
+        "chrono": "cpp",
+        "span": "cpp",
+        "*.tcc": "cpp"
+    }
+}
